@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
-  background-color:black;
+  background-color:rgb(53, 52, 52);
   width: 100%;
   height: 100px;
 }
@@ -13,7 +13,7 @@ header section{
   margin-bottom: 15px;
 }
 header img {
-  margin: 15px;
+  margin: 15px 15px 15px 30px;
   float: left;
 }
 nav ul {
@@ -22,10 +22,10 @@ nav ul {
 nav li {
   display: inline;
   margin: 47px;
-  color: white;
+  color: rgb(151, 150, 150);
 }
 main {
-  margin: 15px;
+  margin: 30px;
 }
 main img:nth-of-type(1) {
   margin: 15px 0 15px 0;
@@ -91,5 +91,5 @@ article {
 footer {
   height: 100px;
   width: 100%;
-  background-color: black;
+  background-color: rgb(53, 52, 52);
 }
